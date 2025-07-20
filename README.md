@@ -27,7 +27,8 @@ Python 3
 pyserial 库: 如果尚未安装，请使用以下命令安装：
 
 ```bash
-uv add pyserial
+uv sync
+# uv add pyserial
 ```
 
 ### 如何使用

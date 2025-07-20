@@ -1,7 +1,7 @@
 [project]
-name = "receivemaix"
+name = "RpiMaixCamReceiver"
 version = "0.1.0"
-description = "Add your description here"
+description = "这是一个运行在树莓派（或其他 Linux 主机）上的 Python 模块，用于接收和解析来自 MaixCam Pro 的目标检测数据。它被封装成一个易于使用的 MaixCamReceiver 类，可以方便地集成到您的其他项目中。"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
